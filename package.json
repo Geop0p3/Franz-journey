@@ -1,0 +1,23 @@
+{
+  "name": "journey",
+  "version": "1.0.0",
+  "description": "schoolhub",
+  "main": "index.js",
+  "author": "Carlos Flores",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://journey.cloud/",
+    "serviceName": "Journey.Me",
+    "message": "Embark on the journey of self improvement towards better life, love and health.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
